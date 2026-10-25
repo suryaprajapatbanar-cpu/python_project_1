@@ -67,3 +67,6 @@ while True:
     if ch==4:
         print("Goodbye!")
         break
+    else:
+        print("invalid choice")
+        break
